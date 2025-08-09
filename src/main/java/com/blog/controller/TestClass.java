@@ -1,5 +1,8 @@
 package com.blog.controller;
 
 public class TestClass {
-  System.out.println("Hello buddy");
+  public static void main(String []args){
+    System.out.println("Hello buddy");
+  }
+  
 }
